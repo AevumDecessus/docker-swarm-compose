@@ -1,0 +1,1 @@
+declare -a nets=("net1" "net2" "etc")
